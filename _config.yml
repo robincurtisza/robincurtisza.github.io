@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "RPG Dawn"
-logo: "/assets/images/RPG Dawn_transparent.png"
+logo: "/assets/images/Dawn Sun_transparent.png"
 email: dawn@rpgdawn.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Robin Curtis"
-  avatar : "/assets/images/Dawn Sun_transparent.png"
+  avatar : "/assets/images/RPG Dawn_transparent.png"  
   bio    : "Dungeons and Dragons, World of Warcarft."
   links:
     - label: "Website"
